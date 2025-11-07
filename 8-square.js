@@ -7,7 +7,7 @@ if (isNaN(sqr)) {
   for (let i = 0; i < sqr; i++) {
     let row = "";
     for (let j = 0; j < sqr; j++) {
-      row += "x";
+      row += "X";
     }
     console.log(row);
   }
