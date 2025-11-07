@@ -3,8 +3,6 @@ let sqr = parseInt(arg);
 
 if (isNaN(sqr)) {
   console.log("Missing Size");
-  console.log("Missing Size");
-  console.log("Missing Size");
 } else {
   for (let i = 0; i < sqr; i++) {
     let row = "";
